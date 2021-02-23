@@ -1,5 +1,7 @@
 # mzr-deployment
 
+To Attach a volume to machine use the following URL (https://cloud.ibm.com/docs/containers?topic=containers-utilities#vpc_api_attach)
+
 - Attach block volume to the machine 
 - ssh to the machine and mount the volume
 - you can ssh via privilged pod you can you the below deployment
